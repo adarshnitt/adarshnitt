@@ -1,3 +1,4 @@
+<h1> Adarsh Kumar Gupta </h1>
 *My name is Adarsh Kumar Gupta. I am a prefinal-year B.Tech student with the Department of Chemical Engineering at the<b> National Institute of Technology, Tiruchirappalli, India</b>.<br> *Also, I am a pre-final year B.Sc. student in <u>'Programming and Data Science'</u> at <b>IIT MADRAS, India</b>. <br> *I did my summer 2021 research internship at <b>IIT Gandhinagar,India </b> with the Department of Physics. I also joined summer school organized by <b> Indian Institute of Astrophysics,India </b>.
 <br><br><br> *I am highly interested to explore human advancement fields like Machine Learning, Artificial Intelligence, Deep Learning, Data Analytics, the Internet of Things, the Internet of Medical Things, Quantum Computing, and Cloud Computing. 
 <br>
